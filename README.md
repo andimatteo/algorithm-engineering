@@ -1,4 +1,4 @@
-# Concurrent Data Structures
+# Algorithm Engineering
 
 Code of Algorithm Engineering course @ University of Pisa
 held by Professor [@ferragina](https://github.com/ferragina).
