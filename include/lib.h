@@ -38,5 +38,9 @@ typedef struct {
 #define RAND(...)                                                           \
     GET_RAND(__VA_ARGS__, RAND_INT, RAND_DOUBLE) (__VA_ARGS__)
 
+#define MAX(a,b) ((a > b) ? a : b)
+
+#define MIN(a,b) ((a < b) ? a : b)
+
 
 #endif

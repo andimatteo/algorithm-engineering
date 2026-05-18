@@ -13,6 +13,9 @@ root/
 
         - 3.5           # reservoir sampling algoithm
     05/ # the sorting problem
+    10/ # the substring search problem
+        - build-lcp     # kasai algorithm for building
+                        # lcp array
 ```
 
 ## resources
